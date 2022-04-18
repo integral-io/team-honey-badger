@@ -4,6 +4,3 @@ describe("Default", () => {
     expect(true).toBe(true);
   });
 });
-
-
-
